@@ -3,7 +3,7 @@ public class TestGit {
         System.out.println("ok con");
         System.out.println("Code by Thu");
         System.out.println("ok");
-        System.out.println();
-        System.out.println();
+        System.out.println("merge");
+        System.out.println("okkkkk");
     }
 }
